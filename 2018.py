@@ -1,6 +1,6 @@
 # try out all the print statements in the comments for better understanding.
 
-ciphertext = open("2017.txt").read()#open file and store in string
+ciphertext = open("2018.txt").read()#open file and store in string
 
 ciphertext = ciphertext.replace(' ',"")#remove all spaces
 ciphertext = ciphertext.replace('/n',"")#remove all newwlines
